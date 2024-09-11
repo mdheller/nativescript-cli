@@ -47,7 +47,7 @@
     "@types/yauzl": "2.9.2",
     "chai": "4.3.6",
     "conventional-changelog-cli": "^2.0.34",
-    "grunt": "1.0.3",
+    "grunt": "1.5.3",
     "grunt-contrib-clean": "1.0.0",
     "grunt-contrib-watch": "1.1.0",
     "grunt-shell": "2.0.0",
